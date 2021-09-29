@@ -1,1 +1,2 @@
-impo
+import discord
+import
